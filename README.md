@@ -15,4 +15,20 @@ The Leetcode problems
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/HimaniNimma/Leetcode/tree/master/2427-number-of-common-factors) |
+## Array
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
