@@ -18,6 +18,7 @@ The Leetcode problems
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/HimaniNimma/Leetcode/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@ The Leetcode problems
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/HimaniNimma/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
