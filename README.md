@@ -21,6 +21,15 @@ The Leetcode problems
 | [0136-single-number](https://github.com/HimaniNimma/Leetcode/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/HimaniNimma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Linked Lists
+|  |
+| ------- |
+| [21-merge-two-sorted-lists](https://github.com/HimaniNimma/Leetcode/tree/main/21-merge-two-sorted-lists) |
+| [83-remove-duplicates-from-sorted-list](https://github.com/HimaniNimma/Leetcode/tree/main/83-remove-duplicates-from-sorted-list) |
+| [203-remove-linked-list-elements](https://github.com/HimaniNimma/Leetcode/tree/main/203-remove-linked-list-elements) |
+| [206-reverse-linked-list](https://github.com/HimaniNimma/Leetcode/tree/main/206-reverse-linked-list) |
+| [237-delete-node-in-a-linked-list](https://github.com/HimaniNimma/Leetcode/tree/main/237-delete-node-in-a-linked-list) |
+| [908-middle-of-the-linked-list](https://github.com/HimaniNimma/Leetcode/tree/main/908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
