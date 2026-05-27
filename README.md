@@ -52,8 +52,21 @@ The Leetcode problems
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/HimaniNimma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/HimaniNimma/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/HimaniNimma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/HimaniNimma/Leetcode/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/HimaniNimma/Leetcode/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/HimaniNimma/Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
