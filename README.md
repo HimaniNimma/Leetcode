@@ -61,12 +61,15 @@ The Leetcode problems
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/HimaniNimma/Leetcode/tree/master/0844-backspace-string-compare) |
+| [3174-clear-digits](https://github.com/HimaniNimma/Leetcode/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/HimaniNimma/Leetcode/tree/master/0844-backspace-string-compare) |
+| [3174-clear-digits](https://github.com/HimaniNimma/Leetcode/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/HimaniNimma/Leetcode/tree/master/0844-backspace-string-compare) |
+| [3174-clear-digits](https://github.com/HimaniNimma/Leetcode/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
