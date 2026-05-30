@@ -1,15 +1,15 @@
 class Solution:
-    def trap(self, h: List[int]) -> int:
-        n=len(h)
-        l=[0]*n
-        r=[0]*n
-        l[0]=h[0]
+    def trap(self, height: List[int]) -> int:
+        n=len(height)
+        left=[0]*n
+        right=[0]*n
+        left[0]=height[0]
         for i in range(1,n):
-            l[i]=max(l[i-1],h[i])
-        r[n-1]=h[n-1]
+            left[i]=max(left[i-1],height[i])
+        right[n-1]=height[n-1]
         for i in range(n-2,-1,-1):
-            r[i]=max(r[i+1],h[i])
-        w=0
+            right[i]=max(right[i+1],height[i])
+        water=0
         for i in range(n):
-            w+=min(l[i],r[i])-h[i]
-        return w
+            water+=min(left[i],right[i])-height[i]
+        return water
