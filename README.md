@@ -19,6 +19,7 @@ The Leetcode problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HimaniNimma/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/HimaniNimma/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/HimaniNimma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Linked Lists
@@ -33,16 +34,19 @@ The Leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HimaniNimma/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/HimaniNimma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HimaniNimma/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/HimaniNimma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HimaniNimma/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
 ## Bit Manipulation
 |  |
@@ -72,4 +76,8 @@ The Leetcode problems
 | ------- |
 | [0844-backspace-string-compare](https://github.com/HimaniNimma/Leetcode/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/HimaniNimma/Leetcode/tree/master/3174-clear-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HimaniNimma/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
