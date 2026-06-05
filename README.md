@@ -22,6 +22,7 @@ The Leetcode problems
 | [0169-majority-element](https://github.com/HimaniNimma/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/HimaniNimma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1652-defuse-the-bomb](https://github.com/HimaniNimma/Leetcode/tree/master/1652-defuse-the-bomb) |
 ## Linked Lists
 |  |
 | ------- |
@@ -89,4 +90,8 @@ The Leetcode problems
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/HimaniNimma/Leetcode/tree/master/0649-dota2-senate) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/HimaniNimma/Leetcode/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
