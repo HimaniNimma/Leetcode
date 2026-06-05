@@ -94,4 +94,8 @@ The Leetcode problems
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/HimaniNimma/Leetcode/tree/master/1652-defuse-the-bomb) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/HimaniNimma/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
