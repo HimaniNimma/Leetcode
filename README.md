@@ -64,6 +64,7 @@ The Leetcode problems
 ## String
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/HimaniNimma/Leetcode/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/HimaniNimma/Leetcode/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/HimaniNimma/Leetcode/tree/master/3174-clear-digits) |
 ## Stack
@@ -80,4 +81,12 @@ The Leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HimaniNimma/Leetcode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/HimaniNimma/Leetcode/tree/master/0649-dota2-senate) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/HimaniNimma/Leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
