@@ -7,12 +7,12 @@ class Solution:
                     d[key]+=1
                 else:
                     d[key]=1
-        frq=0
+        freq=0
         res=-1
         for key,val in d.items():
-            if frq<val:
-                frq=val
+            if freq<val:
+                freq=val
                 res=key
-            elif frq==val and res>key:
+            elif freq==val and res>key:
                 res=key
         return res
