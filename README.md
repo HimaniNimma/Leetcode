@@ -6,6 +6,7 @@ The Leetcode problems
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/HimaniNimma/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [2427-number-of-common-factors](https://github.com/HimaniNimma/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
