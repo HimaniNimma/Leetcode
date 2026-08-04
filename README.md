@@ -7,6 +7,7 @@ The Leetcode problems
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/HimaniNimma/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/HimaniNimma/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2427-number-of-common-factors](https://github.com/HimaniNimma/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
@@ -23,6 +24,7 @@ The Leetcode problems
 | [0169-majority-element](https://github.com/HimaniNimma/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/HimaniNimma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/HimaniNimma/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1652-defuse-the-bomb](https://github.com/HimaniNimma/Leetcode/tree/master/1652-defuse-the-bomb) |
 ## Linked Lists
 |  |
