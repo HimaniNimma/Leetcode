@@ -27,6 +27,7 @@ The Leetcode problems
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HimaniNimma/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HimaniNimma/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1652-defuse-the-bomb](https://github.com/HimaniNimma/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/HimaniNimma/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HimaniNimma/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked Lists
 |  |
@@ -76,6 +77,7 @@ The Leetcode problems
 | ------- |
 | [0649-dota2-senate](https://github.com/HimaniNimma/Leetcode/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/HimaniNimma/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/HimaniNimma/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3174-clear-digits](https://github.com/HimaniNimma/Leetcode/tree/master/3174-clear-digits) |
 ## Stack
 |  |
@@ -86,6 +88,7 @@ The Leetcode problems
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/HimaniNimma/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/HimaniNimma/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3174-clear-digits](https://github.com/HimaniNimma/Leetcode/tree/master/3174-clear-digits) |
 ## Divide and Conquer
 |  |
