@@ -28,6 +28,7 @@ The Leetcode problems
 | [1313-decompress-run-length-encoded-list](https://github.com/HimaniNimma/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HimaniNimma/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1652-defuse-the-bomb](https://github.com/HimaniNimma/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/HimaniNimma/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/HimaniNimma/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HimaniNimma/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HimaniNimma/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -139,4 +140,8 @@ The Leetcode problems
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HimaniNimma/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/HimaniNimma/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
