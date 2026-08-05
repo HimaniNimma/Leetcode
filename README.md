@@ -28,6 +28,7 @@ The Leetcode problems
 | [1313-decompress-run-length-encoded-list](https://github.com/HimaniNimma/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HimaniNimma/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1652-defuse-the-bomb](https://github.com/HimaniNimma/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [1748-sum-of-unique-elements](https://github.com/HimaniNimma/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HimaniNimma/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HimaniNimma/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked Lists
@@ -46,6 +47,7 @@ The Leetcode problems
 | [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/HimaniNimma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HimaniNimma/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/HimaniNimma/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ The Leetcode problems
 | ------- |
 | [0169-majority-element](https://github.com/HimaniNimma/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
+| [1748-sum-of-unique-elements](https://github.com/HimaniNimma/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
