@@ -20,6 +20,7 @@ The Leetcode problems
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/HimaniNimma/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/HimaniNimma/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/HimaniNimma/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
@@ -52,6 +53,7 @@ The Leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/HimaniNimma/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HimaniNimma/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/HimaniNimma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -70,6 +72,7 @@ The Leetcode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/HimaniNimma/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/HimaniNimma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/HimaniNimma/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Binary Search
