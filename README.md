@@ -52,6 +52,7 @@ The Leetcode problems
 | [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/HimaniNimma/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/HimaniNimma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/HimaniNimma/Leetcode/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HimaniNimma/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/HimaniNimma/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
@@ -69,6 +70,7 @@ The Leetcode problems
 | ------- |
 | [0169-majority-element](https://github.com/HimaniNimma/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/HimaniNimma/Leetcode/tree/master/0383-ransom-note) |
 | [1748-sum-of-unique-elements](https://github.com/HimaniNimma/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
@@ -90,6 +92,7 @@ The Leetcode problems
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/HimaniNimma/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/HimaniNimma/Leetcode/tree/master/0383-ransom-note) |
 | [0649-dota2-senate](https://github.com/HimaniNimma/Leetcode/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/HimaniNimma/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HimaniNimma/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
