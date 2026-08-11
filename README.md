@@ -7,6 +7,7 @@ The Leetcode problems
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/HimaniNimma/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/HimaniNimma/Leetcode/tree/master/0202-happy-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HimaniNimma/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2427-number-of-common-factors](https://github.com/HimaniNimma/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Enumeration
@@ -47,6 +48,7 @@ The Leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HimaniNimma/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/HimaniNimma/Leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/HimaniNimma/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/HimaniNimma/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/HimaniNimma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -76,6 +78,7 @@ The Leetcode problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/HimaniNimma/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/HimaniNimma/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HimaniNimma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/HimaniNimma/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Binary Search
@@ -182,4 +185,8 @@ The Leetcode problems
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/HimaniNimma/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/HimaniNimma/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
