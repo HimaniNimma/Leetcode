@@ -35,6 +35,7 @@ The Leetcode problems
 | [1748-sum-of-unique-elements](https://github.com/HimaniNimma/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HimaniNimma/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HimaniNimma/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimaniNimma/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Linked Lists
 |  |
 | ------- |
@@ -55,6 +56,7 @@ The Leetcode problems
 | [0383-ransom-note](https://github.com/HimaniNimma/Leetcode/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HimaniNimma/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/HimaniNimma/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimaniNimma/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +67,7 @@ The Leetcode problems
 | [0349-intersection-of-two-arrays](https://github.com/HimaniNimma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HimaniNimma/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HimaniNimma/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimaniNimma/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting
 |  |
 | ------- |
@@ -118,6 +121,7 @@ The Leetcode problems
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/HimaniNimma/Leetcode/tree/master/0649-dota2-senate) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimaniNimma/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Queue
 |  |
 | ------- |
