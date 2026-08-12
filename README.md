@@ -35,6 +35,7 @@ The Leetcode problems
 | [1748-sum-of-unique-elements](https://github.com/HimaniNimma/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HimaniNimma/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HimaniNimma/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/HimaniNimma/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimaniNimma/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Linked Lists
 |  |
