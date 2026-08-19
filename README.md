@@ -47,6 +47,7 @@ The Leetcode problems
 | [203-remove-linked-list-elements](https://github.com/HimaniNimma/Leetcode/tree/main/203-remove-linked-list-elements) |
 | [206-reverse-linked-list](https://github.com/HimaniNimma/Leetcode/tree/main/206-reverse-linked-list) |
 | [237-delete-node-in-a-linked-list](https://github.com/HimaniNimma/Leetcode/tree/main/237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/HimaniNimma/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [908-middle-of-the-linked-list](https://github.com/HimaniNimma/Leetcode/tree/main/908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ The Leetcode problems
 | [0202-happy-number](https://github.com/HimaniNimma/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HimaniNimma/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/HimaniNimma/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/HimaniNimma/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
