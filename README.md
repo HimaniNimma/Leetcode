@@ -37,6 +37,7 @@ The Leetcode problems
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HimaniNimma/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HimaniNimma/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2404-most-frequent-even-element](https://github.com/HimaniNimma/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/HimaniNimma/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/HimaniNimma/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimaniNimma/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Linked Lists
@@ -62,6 +63,7 @@ The Leetcode problems
 | [1748-sum-of-unique-elements](https://github.com/HimaniNimma/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/HimaniNimma/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/HimaniNimma/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/HimaniNimma/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimaniNimma/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
