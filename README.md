@@ -61,6 +61,7 @@ The Leetcode problems
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HimaniNimma/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/HimaniNimma/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/HimaniNimma/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/HimaniNimma/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/HimaniNimma/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
@@ -81,6 +82,7 @@ The Leetcode problems
 | [0383-ransom-note](https://github.com/HimaniNimma/Leetcode/tree/master/0383-ransom-note) |
 | [1748-sum-of-unique-elements](https://github.com/HimaniNimma/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/HimaniNimma/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/HimaniNimma/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +111,7 @@ The Leetcode problems
 | [1544-make-the-string-great](https://github.com/HimaniNimma/Leetcode/tree/master/1544-make-the-string-great) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HimaniNimma/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3174-clear-digits](https://github.com/HimaniNimma/Leetcode/tree/master/3174-clear-digits) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/HimaniNimma/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
